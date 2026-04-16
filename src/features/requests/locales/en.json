@@ -1,0 +1,35 @@
+{
+  "title": "Requests",
+  "search": {
+    "placeholder": "Search by title or requester"
+  },
+  "filter": {
+    "label": "Status",
+    "all": "All"
+  },
+  "table": {
+    "id": "ID",
+    "title": "Title",
+    "requester": "Requester",
+    "status": "Status",
+    "created_at": "Created At",
+    "actions": "Actions"
+  },
+  "status": {
+    "pending": "Pending",
+    "approved": "Approved",
+    "rejected": "Rejected",
+    "unknown": "Unknown"
+  },
+  "actions": {
+    "approve": "Approve",
+    "reject": "Reject",
+    "final": "Final status"
+  },
+  "states": {
+    "loading": "Loading requests...",
+    "error": "Error loading requests. Please try again.",
+    "empty": "No requests found with the applied filters.",
+    "retry": "Retry"
+  }
+}

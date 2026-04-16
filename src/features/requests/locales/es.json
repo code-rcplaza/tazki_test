@@ -1,0 +1,35 @@
+{
+  "title": "Solicitudes",
+  "search": {
+    "placeholder": "Buscar por título o solicitante"
+  },
+  "filter": {
+    "label": "Estado",
+    "all": "Todos"
+  },
+  "table": {
+    "id": "ID",
+    "title": "Título",
+    "requester": "Solicitante",
+    "status": "Estado",
+    "created_at": "Fecha de creación",
+    "actions": "Acciones"
+  },
+  "status": {
+    "pending": "Pendiente",
+    "approved": "Aprobado",
+    "rejected": "Rechazado",
+    "unknown": "Desconocido"
+  },
+  "actions": {
+    "approve": "Aprobar",
+    "reject": "Rechazar",
+    "final": "Estado final"
+  },
+  "states": {
+    "loading": "Cargando solicitudes...",
+    "error": "Error al cargar las solicitudes. Intente de nuevo.",
+    "empty": "No se encontraron solicitudes con los filtros aplicados.",
+    "retry": "Reintentar"
+  }
+}
