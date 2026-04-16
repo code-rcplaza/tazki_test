@@ -1,4 +1,4 @@
-# Tazki — Prueba Técnica Frontend Semi Senior
+# Tazki — Prueba Técnica Frontend
 
 ## ¿Dónde revisar la pantalla?
 
