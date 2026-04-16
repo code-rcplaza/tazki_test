@@ -86,9 +86,3 @@ Tests       29 passed (29)
 ```BASH
 0 errors · 0 warnings
 ```
-
----
-
-## Ver decisiones de arquitectura
-
-El archivo [`DECISIONS.md`](./DECISIONS.md) documenta el razonamiento detrás de cada decisión técnica.
